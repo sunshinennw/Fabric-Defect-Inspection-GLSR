@@ -6,7 +6,10 @@ code for Fabric Defect Inspection using Prior Knowledge Guided Least Squares Reg
 
 2. 'toolbox' includes functions called in our algorithm, such as patch segmentation, texton feature and saliency. 
 
-3. In addition, our implementation of RRSVD, wavelet and modified are in folder: 'wnn'.
+3. In addition, our implementation of RRSVD[Residual of resonant SVD as salient fea-
+ture], wavelet[Fabric defects de-
+tection using adaptive wavelets] and modified LBP[Fabric de-
+fect detection using modied local binary patterns]are in folder: 'wnn'.
 
 4. Other methods, such as spectral residual and context-aware saliency detection are provided by authors.
 
